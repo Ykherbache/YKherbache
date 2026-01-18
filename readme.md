@@ -1,5 +1,5 @@
 # Salut, je suis Yacine Kherbache 👋 
-Je suis développeur Fullstack avec 2 ans d’expérience, spécialisé dans l’écosystème **TypeScript**. Je construis des applications robustes et évolutives avec **NestJS**, **Vue** et **React**. Je suis un fervent défenseur du **Clean Code**, du **Domain-Driven Design (DDD)** et de l’**Architecture Hexagonale**.
+Je suis développeur Fullstack avec 2 ans d’expérience, spécialisé dans l’écosystème **TypeScript**. Je construis des applications robustes et évolutives avec **NestJS**, **Vue** et **React**. Je suis un fervent défenseur du **Clean Code** et de l’**Architecture Hexagonale**.
 
 
 ### 🚀 À propos de moi
